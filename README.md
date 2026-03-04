@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my dissertation on why promoted teams in the EPL survive relegation.
+- 🔭 I’m currently working on my dissertation on how COVID-19 shifted the financial competitiveness of Europe's Top 5 Football Leagues.
 - 🌱 I’m currently doing my Masters in Data Science & Analytics from Strathmore University.
 - 💬 Ask me about football, procurement, Kenya, Nairobi Stock Exchange, cool stationary.
 - 📫 How to reach me: farzeenwilson@gmail.com _(I check every few days)_
